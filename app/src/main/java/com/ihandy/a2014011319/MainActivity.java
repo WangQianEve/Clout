@@ -16,7 +16,7 @@ public class MainActivity extends Activity {
         button1.setOnClickListener(new View.OnClickListener() {
             @Override public void onClick(View v) {
                 String data = "Hello SecondActivity";
-                Intent intent = new Intent(MainActivity.this,CategoryManagement.class);
+                Intent intent = new Intent(MainActivity.this,ContentPage.class);
                 intent.putExtra("extra_data", data); startActivity(intent);
                 startActivity(intent);
             }

@@ -19,5 +19,5 @@
         <activity android:name=".ContentPage" />
         <activity android:name=".CategoryManagement"></activity>
     </application>
-
+    <uses-permission android:name="android.permission.INTERNET" />
 </manifest>
