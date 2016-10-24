@@ -8,6 +8,10 @@ public class AboutMe extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+<<<<<<< HEAD
         setContentView(R.layout.about_me);
+=======
+        setContentView(R.layout.activity_about_me);
+>>>>>>> origin/master
     }
 }
