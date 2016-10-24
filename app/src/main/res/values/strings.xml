@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">王倩</string>
+    <string name="about_me_text">E-mail: q-wang14@mails.tsinghua.edu.cn\n\nMobile: 18401653350\n\nStudent ID: 2014011319</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="action_settings">Setting</string>
+    <string name="category_file_name">cat</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+</resources>
